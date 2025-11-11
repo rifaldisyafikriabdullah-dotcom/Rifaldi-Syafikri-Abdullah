@@ -1,4 +1,4 @@
-# TUGAS-SO-2
+# TUGAS-SO-2.1
 ## Nama: Shifa Yulia Azizah
 ## NIM: 05301425023
 ## MK : Sistem Operasi (project 1)
