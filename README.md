@@ -1,6 +1,6 @@
 # TUGAS-SO-2.1
-## Nama: Shifa Yulia Azizah
-## NIM: 05301425023
+## Nama: Rifaldi Syafikri Abdullah
+## NIM: 05301425019
 ## MK : Sistem Operasi (project 1)
 ## Kelas : Sistem Informasi -A
 ## Masuk ke direktori home
